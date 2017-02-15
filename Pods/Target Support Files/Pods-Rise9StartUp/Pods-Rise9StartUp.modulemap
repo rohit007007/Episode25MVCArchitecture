@@ -1,0 +1,6 @@
+framework module Pods_Rise9StartUp {
+  umbrella header "Pods-Rise9StartUp-umbrella.h"
+
+  export *
+  module * { export * }
+}
